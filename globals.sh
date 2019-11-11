@@ -5,8 +5,8 @@ ACCELERATORTYPE="nvidia-tesla-p4-vws"
 ACCELERATORCOUNT="1"
 
 # instance and boot disk type?
-INSTANCETYPE="n1-standard-8"
-BOOTTYPE="pd-ssd"
+INSTANCETYPE="n1-standard-4"
+BOOTTYPE="pd-standard"
 
 # base image?
 IMAGEBASEFAMILY="windows-2016"
